@@ -754,7 +754,7 @@ const ambassadors: Ambassador[] = [
   },
     {
     name: "Melanie Nuesch",
-    img: "Screenshot mel photo tini.png",
+    img: "mel_photo.png",
     country: "uy",
     github: "melnuesch",
     linkedin: "melnuesch",
